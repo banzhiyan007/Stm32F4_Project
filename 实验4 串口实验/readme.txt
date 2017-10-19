@@ -32,9 +32,8 @@
 					公司网站：www.alientek.com
 					技术论坛：www.openedv.com
 					
-这是测试程序 
 					
-					
+这是怎么回事			
 					
 					
 					
